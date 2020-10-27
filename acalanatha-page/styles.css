@@ -1,0 +1,11 @@
+body {
+  background-image: url("https://images.squarespace-cdn.com/content/v1/591bc663197aeabacf97b72b/1524397342967-YXYHZ58JAVTVUABGTB4T/ke17ZwdGBToddI8pDm48kOlpZEm6lIPwPw_yo_m_zlV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UeSVMWmcuz5YkWBVf_98p9j5HN4wc9JBwr3vukvQUiJxOpYghpI-Ha_TwZsqqmJXng/background.gif?format=2500w");
+  color: silver;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  color: orange;
+}
